@@ -1,0 +1,240 @@
+2026-07-18 18:42:04,915 [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-07-18 18:42:04,916 [WARNING] discord.client: davey is not installed, voice will NOT be supported
+2026-07-18 18:42:04,916 [INFO] discord.client: logging in using static token
+2026-07-18 18:42:08,794 [INFO] __main__: Database initialized.
+2026-07-18 18:42:08,809 [INFO] __main__: All cogs loaded.
+2026-07-18 18:42:09,068 [INFO] __main__: Commands synced to test guild 1527968172521816074
+2026-07-18 18:42:09,069 [INFO] __main__: Bot ready as Piligrim#9514
+2026-07-18 18:54:57,423 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:54:57,423 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:54:57,698 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:54:57,698 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:54:57,724 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:54:57,724 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:54:57,871 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:54:57,871 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:54:58,029 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082664949682298 responded with 429. Retrying in 0.41 seconds.
+2026-07-18 18:54:58,116 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:54:58,116 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:54:58,602 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082664949682298 responded with 429. Retrying in 0.83 seconds.
+2026-07-18 18:54:59,171 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082669764874302 responded with 429. Retrying in 0.30 seconds.
+2026-07-18 18:54:59,617 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082671631204453 responded with 429. Retrying in 0.83 seconds.
+2026-07-18 18:54:59,632 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082669764874302 responded with 429. Retrying in 0.81 seconds.
+2026-07-18 18:54:59,838 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082672524460135 responded with 429. Retrying in 0.59 seconds.
+2026-07-18 18:55:00,008 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:00,009 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:00,049 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082673728491731 responded with 429. Retrying in 0.39 seconds.
+2026-07-18 18:55:00,347 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082674827137036 responded with 429. Retrying in 0.30 seconds.
+2026-07-18 18:55:00,575 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:00,576 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:00,590 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082673728491731 responded with 429. Retrying in 0.85 seconds.
+2026-07-18 18:55:00,618 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082669764874302 responded with 429. Retrying in 0.82 seconds.
+2026-07-18 18:55:00,629 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082671631204453 responded with 429. Retrying in 0.81 seconds.
+2026-07-18 18:55:00,650 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082675951337685 responded with 429. Retrying in 0.79 seconds.
+2026-07-18 18:55:00,839 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082674827137036 responded with 429. Retrying in 0.60 seconds.
+2026-07-18 18:55:00,867 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082677062697030 responded with 429. Retrying in 0.57 seconds.
+2026-07-18 18:55:01,145 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082678040100968 responded with 429. Retrying in 0.30 seconds.
+2026-07-18 18:55:01,584 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082675951337685 responded with 429. Retrying in 0.85 seconds.
+2026-07-18 18:55:01,587 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082669764874302 responded with 429. Retrying in 0.85 seconds.
+2026-07-18 18:55:01,590 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082673728491731 responded with 429. Retrying in 0.84 seconds.
+2026-07-18 18:55:01,598 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082677062697030 responded with 429. Retrying in 0.84 seconds.
+2026-07-18 18:55:01,633 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082671631204453 responded with 429. Retrying in 0.81 seconds.
+2026-07-18 18:55:01,638 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082678040100968 responded with 429. Retrying in 0.80 seconds.
+2026-07-18 18:55:01,642 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082674827137036 responded with 429. Retrying in 0.80 seconds.
+2026-07-18 18:55:01,759 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082680854347846 responded with 429. Retrying in 0.68 seconds.
+2026-07-18 18:55:02,032 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082682016436245 responded with 429. Retrying in 0.40 seconds.
+2026-07-18 18:55:02,590 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082682016436245 responded with 429. Retrying in 0.85 seconds.
+2026-07-18 18:55:02,590 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082675951337685 responded with 429. Retrying in 0.85 seconds.
+2026-07-18 18:55:02,596 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082680854347846 responded with 429. Retrying in 0.84 seconds.
+2026-07-18 18:55:02,600 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082669764874302 responded with 429. Retrying in 0.83 seconds.
+2026-07-18 18:55:02,600 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082671631204453 responded with 429. Retrying in 0.83 seconds.
+2026-07-18 18:55:02,615 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082677062697030 responded with 429. Retrying in 0.84 seconds.
+2026-07-18 18:55:02,649 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082674827137036 responded with 429. Retrying in 0.79 seconds.
+2026-07-18 18:55:02,721 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082673728491731 responded with 429. Retrying in 0.72 seconds.
+2026-07-18 18:55:02,771 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082684025507940 responded with 429. Retrying in 0.67 seconds.
+2026-07-18 18:55:03,063 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082686122528828 responded with 429. Retrying in 0.38 seconds.
+2026-07-18 18:55:03,438 [ERROR] discord.client: Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/client.py", line 508, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/cogs/automod.py", line 41, in on_message
+    await message.delete()
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/http.py", line 793, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being rate limited.
+2026-07-18 18:55:03,601 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082682016436245 responded with 429. Retrying in 0.83 seconds.
+2026-07-18 18:55:03,601 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082677062697030 responded with 429. Retrying in 0.83 seconds.
+2026-07-18 18:55:03,605 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082675951337685 responded with 429. Retrying in 0.83 seconds.
+2026-07-18 18:55:03,606 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082680854347846 responded with 429. Retrying in 0.83 seconds.
+2026-07-18 18:55:03,614 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082674827137036 responded with 429. Retrying in 0.82 seconds.
+2026-07-18 18:55:03,622 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082686122528828 responded with 429. Retrying in 0.82 seconds.
+2026-07-18 18:55:03,625 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082673728491731 responded with 429. Retrying in 0.81 seconds.
+2026-07-18 18:55:03,640 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082684025507940 responded with 429. Retrying in 0.80 seconds.
+2026-07-18 18:55:03,665 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082671631204453 responded with 429. Retrying in 0.78 seconds.
+2026-07-18 18:55:03,949 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082689989677067 responded with 429. Retrying in 0.48 seconds.
+2026-07-18 18:55:04,172 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:04,172 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:04,440 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:04,441 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:04,441 [ERROR] discord.client: Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/client.py", line 508, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/cogs/automod.py", line 41, in on_message
+    await message.delete()
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/http.py", line 793, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being rate limited.
+2026-07-18 18:55:04,447 [ERROR] discord.client: Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/client.py", line 508, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/cogs/automod.py", line 41, in on_message
+    await message.delete()
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/http.py", line 793, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being rate limited.
+2026-07-18 18:55:04,450 [ERROR] discord.client: Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/client.py", line 508, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/cogs/automod.py", line 41, in on_message
+    await message.delete()
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/http.py", line 793, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being rate limited.
+2026-07-18 18:55:04,464 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:04,464 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:04,580 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:04,581 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:04,586 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082682016436245 responded with 429. Retrying in 0.85 seconds.
+2026-07-18 18:55:04,586 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082677062697030 responded with 429. Retrying in 0.85 seconds.
+2026-07-18 18:55:04,590 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082689989677067 responded with 429. Retrying in 0.84 seconds.
+2026-07-18 18:55:04,593 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082680854347846 responded with 429. Retrying in 0.84 seconds.
+2026-07-18 18:55:04,602 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082686122528828 responded with 429. Retrying in 0.83 seconds.
+2026-07-18 18:55:04,614 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082684025507940 responded with 429. Retrying in 0.82 seconds.
+2026-07-18 18:55:04,658 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082675951337685 responded with 429. Retrying in 0.78 seconds.
+2026-07-18 18:55:04,834 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082693529796648 responded with 429. Retrying in 0.61 seconds.
+2026-07-18 18:55:05,150 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082695127699506 responded with 429. Retrying in 0.30 seconds.
+2026-07-18 18:55:05,437 [ERROR] discord.client: Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/client.py", line 508, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/cogs/automod.py", line 41, in on_message
+    await message.delete()
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/http.py", line 793, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being rate limited.
+2026-07-18 18:55:05,443 [ERROR] discord.client: Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/client.py", line 508, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/cogs/automod.py", line 41, in on_message
+    await message.delete()
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/http.py", line 793, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being rate limited.
+2026-07-18 18:55:05,610 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082686122528828 responded with 429. Retrying in 0.83 seconds.
+2026-07-18 18:55:05,617 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082693529796648 responded with 429. Retrying in 0.82 seconds.
+2026-07-18 18:55:05,618 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082695127699506 responded with 429. Retrying in 0.82 seconds.
+2026-07-18 18:55:05,622 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082682016436245 responded with 429. Retrying in 0.82 seconds.
+2026-07-18 18:55:05,629 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082680854347846 responded with 429. Retrying in 0.82 seconds.
+2026-07-18 18:55:05,647 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082689989677067 responded with 429. Retrying in 0.79 seconds.
+2026-07-18 18:55:05,670 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082684025507940 responded with 429. Retrying in 0.78 seconds.
+2026-07-18 18:55:06,010 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:06,011 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:06,035 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082698659168286 responded with 429. Retrying in 0.41 seconds.
+2026-07-18 18:55:06,298 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:06,299 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:06,439 [ERROR] discord.client: Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/client.py", line 508, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/cogs/automod.py", line 41, in on_message
+    await message.delete()
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/http.py", line 793, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being rate limited.
+2026-07-18 18:55:06,454 [ERROR] discord.client: Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/client.py", line 508, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/cogs/automod.py", line 41, in on_message
+    await message.delete()
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/http.py", line 793, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being rate limited.
+2026-07-18 18:55:06,598 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082695127699506 responded with 429. Retrying in 0.84 seconds.
+2026-07-18 18:55:06,600 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082698659168286 responded with 429. Retrying in 0.84 seconds.
+2026-07-18 18:55:06,606 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082684025507940 responded with 429. Retrying in 0.83 seconds.
+2026-07-18 18:55:06,614 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082689989677067 responded with 429. Retrying in 0.83 seconds.
+2026-07-18 18:55:06,655 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082686122528828 responded with 429. Retrying in 0.78 seconds.
+2026-07-18 18:55:06,784 [WARNING] discord.http: We are being rate limited. POST https://discord.com/api/v10/channels/1528082660222828726/messages responded with 429. Retrying in 0.30 seconds.
+2026-07-18 18:55:07,408 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:07,408 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:07,437 [ERROR] discord.client: Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/client.py", line 508, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/cogs/automod.py", line 41, in on_message
+    await message.delete()
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/http.py", line 793, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being rate limited.
+2026-07-18 18:55:07,440 [ERROR] discord.client: Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/client.py", line 508, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/cogs/automod.py", line 41, in on_message
+    await message.delete()
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/http.py", line 793, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being rate limited.
+2026-07-18 18:55:07,623 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082698659168286 responded with 429. Retrying in 0.82 seconds.
+2026-07-18 18:55:07,632 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082695127699506 responded with 429. Retrying in 0.81 seconds.
+2026-07-18 18:55:08,630 [WARNING] discord.http: We are being rate limited. DELETE https://discord.com/api/v10/channels/1527968172978737275/messages/1528082695127699506 responded with 429. Retrying in 0.81 seconds.
+2026-07-18 18:55:09,437 [ERROR] discord.client: Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/client.py", line 508, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/cogs/automod.py", line 41, in on_message
+    await message.delete()
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/Users/yegor/Documents/Acore/Development/jobiz/portfolio-bots/discord-mod-bot/.venv/lib/python3.14/site-packages/discord/http.py", line 793, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being rate limited.
+2026-07-18 18:55:11,015 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:11,016 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:11,246 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:11,247 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:11,315 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:11,316 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:12,467 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:12,468 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:14,363 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:14,364 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:14,974 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:14,974 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)
+2026-07-18 18:55:15,776 [WARNING] ops_webhook: ops-lab webhook failed: <urlopen error [Errno 61] Connection refused>
+2026-07-18 18:55:15,776 [INFO] cogs.automod: Auto-mod warn yegor_by_87228 in yegor_by's server: Spam (rate limit exceeded)

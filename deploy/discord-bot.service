@@ -1,0 +1,14 @@
+[Unit]
+Description=Discord Moderation Bot
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/home/ubuntu/portfolio-bots/discord-mod-bot/.venv/bin/python -m main
+WorkingDirectory=/home/ubuntu/portfolio-bots/discord-mod-bot
+Restart=on-failure
+RestartSec=10
+EnvironmentFile=/home/ubuntu/portfolio-bots/discord-mod-bot/.env
+
+[Install]
+WantedBy=default.target
