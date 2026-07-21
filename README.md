@@ -8,6 +8,10 @@
 
 Discord Moderation Bot is a Python moderation assistant for community servers. It combines slash-command moderation, auto-moderation, tickets, auto-role, audit logging, a SQLite-backed case history, and optional LLM-powered moderation assistance.
 
+## Demo
+
+[Live demo video](https://youtu.be/f7ZKzBm6PHg) — capability overview and a moderation workflow simulation (spam burst detection, warning ladder, SQLite-logged action).
+
 ## Overview
 
 The bot is designed for Discord communities that need structured moderation without depending on a large third-party moderation suite. Moderators can use slash commands for manual actions, while automated listeners detect common moderation incidents such as spam bursts, mass mentions, and profanity.
